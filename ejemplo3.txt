@@ -1,3 +1,2 @@
 Primera línea ejemplo3
-Segunda línea
-Tercera línea, añadida en el branch develop
+Segunda línea ejemplo3
